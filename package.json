@@ -1,7 +1,7 @@
 {
-  "name": "grunt-bower-starter",
+  "name": "g-smile",
   "version": "1.0.0",
-  "description": "Starter project using Grunt, Bower, and Git with basic grunt plugins installed.",
+  "description": "smile website",
   "main": "app.htm",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
