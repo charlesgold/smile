@@ -1,5 +1,5 @@
-#{{Project Name}}#
-Project description here
+#g-smile#
+smile website
 
 ##Installation##
 * npm install
